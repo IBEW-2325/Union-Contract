@@ -1,51 +1,49 @@
 **TABLE OF CONTENTS**
 
-**[Agreement](#agreement)	[3](#agreement)**
+[**Witnesseth**](0.%20Introduction.md)
 
-[**Witnesseth**](#witnesseth)	**[3](#witnesseth)**
+[**ARTICLE 1 - Scope**](1.%20Article%201.md)
 
-[**ARTICLE 1 \- Scope**](1.%20Article%201.md)	**[4](#article-1---scope)**
+[**ARTICLE 2 – Severability**](2.%20Article%202.md)
 
-[**ARTICLE 2 – Severability**](2.%20Article%202.md)	**[4](#article-2-–-severability)**
+[**ARTICLE 3 – Recognition**](3.%20Article%203.md)
 
-[**ARTICLE 3 – Recognition**](3.%20Article%203.md)	**[4](#article-3-–-recognition)**
+[**ARTICLE 4 - Employer-Union Cooperation**](4.%20Article%204.md)
 
-[**ARTICLE 4 \- Employer-Union Cooperation**](#article-4---employer-union-cooperation)	**[4](#article-4---employer-union-cooperation)**
+[**ARTICLE 5 - Union Security**](5.%20Article%205.md)
 
-[**ARTICLE 5 \- Union Security**](#article-5---union-security)	**[4](#article-5---union-security)**
+[**ARTICLE 6 - Voluntary Checkoff of Union Fees and Deductions**](6.%20Article%206.md)
 
-[**ARTICLE 6 \- Voluntary Checkoff of Union Fees and Deductions**](#article-6---voluntary-checkoff-of-union-fees-and-deductions)	**[6](#article-6---voluntary-checkoff-of-union-fees-and-deductions)**
+[**ARTICLE 7 - Strikes or Lockouts**](7.%20Article%207.md)
 
-[**ARTICLE 7 \- Strikes or Lockouts**](#article-7---strikes-or-lockouts)	**[6](#article-7---strikes-or-lockouts)**
+[**ARTICLE 8 - Management Rights**](8.%20Article%208.md)
 
-[**ARTICLE 8 \- Management Rights**](#article-8---management-rights)	**[7](#article-8---management-rights)**
+[**ARTICLE 9 - No Discrimination & Equal Employment Opportunity**](9.%20Article%209.md)
 
-[**ARTICLE 9 \- No Discrimination & Equal Employment Opportunity**](#article-9---no-discrimination-&-equal-employment-opportunity)	**[7](#article-9---no-discrimination-&-equal-employment-opportunity)**
+[**ARTICLE 10 - Gender Neutrality**](10.%20Article%2010.md)
 
-[**ARTICLE 10 \- Gender Neutrality**](#article-10---gender-neutrality)	**[9](#article-10---gender-neutrality)**
+[**ARTICLE 11 – Seniority**](11.%20Article%2011.md)
 
-[**ARTICLE 11 – Seniority**](#article-11-–-seniority)	**[9](#article-11-–-seniority)**
+[**ARTICLE 12 - Shop Stewards**](12.%20Article%2012.md)
 
-[**ARTICLE 12 \- Shop Stewards**](#article-12---shop-stewards)	**[11](#article-12---shop-stewards)**
+[**ARTICLE 13 - Safety & Health**](13.%20Article%2013.md)
 
-[**ARTICLE 13 \- Safety & Health**](#article-13---safety-&-health)	**[12](#article-13---safety-&-health)**
+[**ARTICLE 14 - Labor Management Committees**](14.%20Article%2014.md)
 
-[**ARTICLE 14 \- Labor Management Committees**](#article-14---labor-management-committees)	**[12](#article-14---labor-management-committees)**
+[**ARTICLE 15 - Discipline and Discharge**](15.%20Article%2015.md)
 
-[**ARTICLE 15 \- Discipline and Discharge**](#article-15---discipline-and-discharge)	**[13](#article-15---discipline-and-discharge)**
+[**ARTICLE 16 - Grievance & Arbitration Procedures**](16.%20Article%2016.md)
 
-[**ARTICLE 16 \- Grievance & Arbitration Procedures**](#article-16---grievance-&-arbitration-procedures)	**[14](#article-16---grievance-&-arbitration-procedures)**
+[**ARTICLE 18 - Hours and Schedules**](18.%20Article%2018.md)
 
-[**ARTICLE 18 \- Hours and Schedules**](#17.7-commission-bonuses-for-sales-employees:-bargaining-unit-employees-responsible-for-proactive,-outbound-sales-shall-receive-a-commission-bonus-equivalent-to-at-least-1%-of-the-revenue-brought-in-through-their-efforts.)	**[20](#17.7-commission-bonuses-for-sales-employees:-bargaining-unit-employees-responsible-for-proactive,-outbound-sales-shall-receive-a-commission-bonus-equivalent-to-at-least-1%-of-the-revenue-brought-in-through-their-efforts.)**
+[**ARTICLE 19 - Working Conditions**](19.%20Article%2019.md)
 
-[**ARTICLE 19 \- Working Conditions**](#article-19---miscellaneous)	**[21](#article-19---miscellaneous)**
+[**ARTICLE 20 – Vacation & Sick Leave**](20.%20Article%2020.md)
 
-[**ARTICLE 20 – Vacation & Sick Leave**](#article-20---paid-time-off-\(pto\))	**[23](#article-20---paid-time-off-\(pto\))**
+[**ARTICLE 21 – Holidays**](21.%20Article%2021.md)
 
-[**ARTICLE 21 – Holidays**](#article-21-–-holidays)	**[25](#article-21-–-holidays)**
+[**ARTICLE 22 - Miscellaneous Benefits**](22.%20Article%2022.md)
 
-[**ARTICLE 22 \- Miscellaneous Benefits**](#heading=h.3fwokq0)	**[26](#heading=h.3fwokq0)**
+[**ARTICLE 23 - Leaves of Absence and Other Leaves**](23.%20Article%2023.md)
 
-[**ARTICLE 23 \- Leaves of Absence and Other Leaves**](#article-23---leaves-of-absence-and-other-leaves)	**[28](#article-23---leaves-of-absence-and-other-leaves)**
-
-[**ARTICLE 24 \- Duration of Contract**](#article-24---duration-of-contract)	[27](#article-24---duration-of-contract)
+[**ARTICLE 24 - Duration of Contract**](24.%20Article%2024.md)
