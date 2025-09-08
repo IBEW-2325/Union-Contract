@@ -4,11 +4,11 @@
 
 [**Witnesseth**](#witnesseth)	**[3](#witnesseth)**
 
-[**ARTICLE 1 \- Scope**](#article-1---scope)	**[4](#article-1---scope)**
+[**ARTICLE 1 \- Scope**](1.%20Article%201.md)	**[4](#article-1---scope)**
 
-[**ARTICLE 2 – Severability**](#article-2-–-severability)	**[4](#article-2-–-severability)**
+[**ARTICLE 2 – Severability**](2.%20Article%202.md)	**[4](#article-2-–-severability)**
 
-[**ARTICLE 3 – Recognition**](#article-3-–-recognition)	**[4](#article-3-–-recognition)**
+[**ARTICLE 3 – Recognition**](3.%20Article%203.md)	**[4](#article-3-–-recognition)**
 
 [**ARTICLE 4 \- Employer-Union Cooperation**](#article-4---employer-union-cooperation)	**[4](#article-4---employer-union-cooperation)**
 
