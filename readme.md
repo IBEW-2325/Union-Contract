@@ -1,4 +1,4 @@
-**TABLE OF CONTENTS**
+# Table of Contents
 
 [**Witnesseth**](0.%20Introduction.md)
 
